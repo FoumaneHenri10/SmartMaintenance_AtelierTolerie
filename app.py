@@ -19,8 +19,6 @@ col1, col2 = st.columns([8, 1])  # 8:1 ratio pour titre/logo
 with col1:
     st.title("⚙️ Smart Maintenance — KPIs Atelier Tôlerie")
     st.markdown("Prototype Data Engineering / Data Analytics pour suivi maintenance")
-    st.markdown("Simulation type : (Ampere / Renault)")
-with col2:
     st.image(logo)
 
 # --- Charger les KPIs ---
