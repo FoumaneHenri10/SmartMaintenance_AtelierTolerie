@@ -1,4 +1,4 @@
-# ⚙️ Smart Maintenance — Atelier Tôlerie (Ampere / Renault)
+# ⚙️ Smart Maintenance — Atelier Tôlerie
 
 **Prototype Data Analytics & Data Engineering** pour le suivi et la prédiction des pannes machines dans un atelier de tôlerie.
 
