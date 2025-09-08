@@ -1,0 +1,6 @@
+machine,MTTR_h,MTBF_days,Downtime_total_h,Cost_total_eur,Scrap_total,Scrap_rate,OEE_proxy
+Press_1,4.0,13.08,52,3475,355,21.31,76.59
+Press_2,4.64,12.85,65,4450,314,18.85,73.45
+Press_3,3.73,11.36,56,3875,333,19.99,75.26
+Press_4,4.0,12.54,56,4300,395,23.71,75.81
+Press_5,3.6,11.57,54,4550,269,16.15,76.27
